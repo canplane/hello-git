@@ -6,6 +6,7 @@
 작성한 소스에 대한 간단한 소개글을 작성합니다.
 
 ---
+## Markdown 사용법
 
 ### Code
 한 줄짜리 소스 코드는 `function add(x, y) { return x + y; }`처럼 사용합니다.
